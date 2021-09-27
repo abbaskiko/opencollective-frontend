@@ -1,5 +1,6 @@
 {
   "2FA.PleaseEnterCode": "Увімкнено двоетапну перевірку: введіть свій код.",
+  "8J1GQR": "Generate report",
   "9kdoVP": "Local time: {localTime}{newLine}UTC time: {utcTime}",
   "Accept": "Прийняти",
   "acceptContributions.addBankAccount": "Додати банківський рахунок",
@@ -983,6 +984,7 @@
   "ExportImages.AllFinancial": "Усі відзнаки меценатів",
   "ExportImages.Title": "You can export images showing the financial contributors to each tier.",
   "externalRedirect.message": "Your request is currently being redirected to {redirect}. For the safety and privacy of your Open Collective account, remember to never enter your credentials unless you're on the real Open Collective website.",
+  "f0IbfE": "Filter by collective",
   "FAQ": "ЧаП",
   "FeatureNotSupported.description": "Ця сторінка не була активована для Колективу або ви не маєте дозволу на її перегляд.",
   "FeatureNotSupported.title": "Сторінка недоступна",

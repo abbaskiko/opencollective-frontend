@@ -1,5 +1,6 @@
 {
   "2FA.PleaseEnterCode": "Autenticação de dois fatores ativada: por favor, digite seu código.",
+  "8J1GQR": "Generate report",
   "9kdoVP": "Local time: {localTime}{newLine}UTC time: {utcTime}",
   "Accept": "Aceitar",
   "acceptContributions.addBankAccount": "Adicionar conta bancária",
@@ -983,6 +984,7 @@
   "ExportImages.AllFinancial": "Distintivo de todos os colaboradores financeiros",
   "ExportImages.Title": "Você pode exportar imagens mostrando os colaboradores financeiros para cada nível.",
   "externalRedirect.message": "Sua solicitação está sendo redirecionada para {redirect}. Para a segurança e a privacidade de sua conta Open Collective, lembre-se de nunca inserir suas credenciais a menos que você esteja no site real da Open Collective.",
+  "f0IbfE": "Filter by collective",
   "FAQ": "Perguntas Frequentes",
   "FeatureNotSupported.description": "Esta página não foi ativada para este Coletivo ou você não tem permissão para visualizá-la.",
   "FeatureNotSupported.title": "Página inacessível",
